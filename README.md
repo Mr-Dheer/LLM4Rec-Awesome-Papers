@@ -173,7 +173,7 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                      | Year |
 | ------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) | 2023 |
+| [Qwen1.5-7B](https://github.com/QwenLM/Qwen1.5) | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B) | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat)         | 2023 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 2023 |
