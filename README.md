@@ -39,7 +39,7 @@ If our work has been of assistance to you, please feel free to cite our survey. 
 ### Multi Task
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
- | P5       | [Recommendation as language processing (rlp): A unified pretrain, personalized prompt & predict paradigm (p5)](https://arxiv.org/pdf/2203.13366) | RecSys           | 2022     | [Python](https://github.com/jeykigung/P5)   
+ | P5       | [Recommendation as language processing (rlp): A unified pretrain, personalized prompt & predict paradigm (p5)](https://arxiv.org/pdf/2203.13366) | RecSys           | 2022     T5 | [Python](https://github.com/jeykigung/P5)   
  | M6-Rec   | [M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems](https://arxiv.org/pdf/2205.08084) | arxiv            | 2022     | N/A                                                           | M6       |
 
 
